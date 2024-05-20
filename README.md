@@ -8,7 +8,7 @@
 
 ![PMPi-Logo](<images/2040Macro.png>)
 
-[About](#about) - [Key Features](#key-features) - [Related](#related) - [License](#license)
+[About](#about) - [Key Features](#key-features) - [Child Repositories](#child-repositories) - [Related](#related) - [License](#license)
 
 ## Status
 
@@ -66,6 +66,10 @@ This project has mainly served as an exercise in high density hardware developme
 - [RP2040 Stamp](https://www.solder.party/docs/rp2040-stamp/)
 - [Tiny 2040](https://shop.pimoroni.com/products/tiny-2040?variant=39560012234835)
 - [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
+
+## Child Repositories
+
+- [2040Macro-PCB](https://github.com/LeHuman/2040Macro-PCB)
 
 ## License
 
