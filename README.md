@@ -13,7 +13,6 @@
 ## Status
 
 **`Work In progress`**
-> *Still working on the routing - May 2024*
 
 ## About
 <!-- DESCRIPTION START -->
