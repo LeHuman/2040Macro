@@ -1,5 +1,5 @@
-<!-- PROJECT: PMPi -->
-<!-- TITLE: PMPi -->
+<!-- PROJECT: 2040Macro -->
+<!-- TITLE: 2040Macro -->
 <!-- FONT: IBM Plex -->
 <!-- KEYWORDS: Controller, Raspberry Pi Pico W, Embedded, Hardware, Firmware -->
 <!-- LANGUAGES: C, C++, Python -->
